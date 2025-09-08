@@ -13,4 +13,5 @@ Welcome to my portfolio! This repository showcases my projects in **SQL, Python,
 
 ## 🔹 Contact  
 - 📧 Email: pvtpraveenkumar@gmail.com
-  
+- 🔗 LinkedIn: [Your LinkedIn]  
+- 🐙 GitHub: [Your GitHub Profile]
