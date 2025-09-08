@@ -6,7 +6,7 @@ To analyze attendance records and provide insights into **attendance patterns, a
 ---
 
 ## 🛠 Tools & Technologies  
-- **Excel** (cleaning, and transformation)  
+- **Excel and SQL** (cleaning, and transformation)  
 - **Power BI** (Dashboard creation and visualization)  
 
 ---
