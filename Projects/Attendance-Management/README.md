@@ -6,7 +6,7 @@ To analyze attendance records and provide insights into **attendance patterns, a
 ---
 
 ## 🛠 Tools & Technologies  
-- **SQL** (Data extraction, cleaning, and transformation)  
+- **Excel** (cleaning, and transformation)  
 - **Power BI** (Dashboard creation and visualization)  
 
 ---
@@ -36,8 +36,7 @@ To analyze attendance records and provide insights into **attendance patterns, a
 
 ---
 
-## 📁 Files in this Folder  
-- `attendance_analysis.sql` → SQL scripts for data cleaning & analysis  
+## 📁 Files in this Folder    
 - `attendance_dashboard.pbix` → Power BI dashboard file  
 - `README.md` → Project documentation  
 
