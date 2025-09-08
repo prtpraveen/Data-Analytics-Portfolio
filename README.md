@@ -12,6 +12,5 @@ Welcome to my portfolio! This repository showcases my projects in **SQL, Python,
 - Excel for Business Analysis  
 
 ## 🔹 Contact  
-- 📧 Email: pvtpraveenkumar@gmail.com
-- 🔗 LinkedIn: [Your LinkedIn]  
+- 📧 Email: pvtpraveenkumar@gmail.com 
 - 🐙 GitHub: [https://github.com/prtpraveen/Data-Analytics-Portfolio]
