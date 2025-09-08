@@ -4,7 +4,8 @@
 Analyze telecom customer data to identify churn factors and create actionable insights.  
 
 ## 🛠 Tools  
-- Python (Pandas, NumPy, Matplotlib, Seaborn)  
+- Python (Pandas, NumPy, Matplotlib, Seaborn)
+- SQl  
 - Power BI  
 
 ## 📊 Insights  
